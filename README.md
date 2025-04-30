@@ -1,4 +1,8 @@
 ## Hi there 👋
+🤔 logs for my projects
+
+project 1: container number identify -- ongoing
+
 
 <!--
 **edward-wangqiang/edward-wangqiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
